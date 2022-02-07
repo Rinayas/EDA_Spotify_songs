@@ -2,9 +2,9 @@
 This Data set is about songs from Spotify with their popularity rating and more information about the songs.
 ________________________________________
 The data-set can be downloaded from Kaggle (Link below). The original data set contains more of 18, 000 rows and 25 columns that contains features of the songs such as lyrics, loudness, length and many more, you can check the meaning of the columns we decided to work on - below. This project explores and analyzes the data. The questions that led us were:
-•	To try check if there is a connection between the characteristics of the songs and their popularity, can we predict which characteristics will bring high popularity of the song ?
-•	What's the difference or effect (if there is) between the years of the songs and to the popularity ?
-•	Analysis of the lyrics and duration songs by genre - to see if they are different or are they the same.
+* To try check if there is a connection between the characteristics of the songs and their popularity, can we predict which characteristics will bring high popularity of the song ?
+* What's the difference or effect (if there is) between the years of the songs and to the popularity ?
+* Analysis of the lyrics and duration songs by genre - to see if they are different or are they the same.
 Columns info :
 1.	Track name = Song Name | character
 2.	Track artist = Song Artist | character
