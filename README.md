@@ -25,5 +25,6 @@ Columns info :
 17.	Tempo = The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 18.	Duration ms = Duration of song in milliseconds
 19.	Language = Language of the lyrics
+
 Link to data file - https://www.kaggle.com/harrimansaragih/exploratory-data-analysis-18k-spotify-songs/data?select=spotify_songs.csv
 
